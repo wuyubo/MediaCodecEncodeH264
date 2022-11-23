@@ -1,0 +1,70 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\myCode\\mediacodec\\MediaCodecEncodeH264-cameraapi2(1)\\MediaCodecEncodeH264\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "G:\\myCode\\mediacodec\\MediaCodecEncodeH264-cameraapi2(1)\\MediaCodecEncodeH264\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "312",
+                        "endColumns": "57",
+                        "endOffsets": "365"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\cx\\Documents\\WeChat Files\\wxid_su3bc7tsdysh41\\FileStorage\\File\\2022-11\\MediaCodecEncodeH264\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\cx\\Documents\\WeChat Files\\wxid_su3bc7tsdysh41\\FileStorage\\File\\2022-11\\MediaCodecEncodeH264\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "312",
+                        "endColumns": "57",
+                        "endOffsets": "365"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\myCode\\mediacodec\\MediaCodecEncodeH264\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "G:\\myCode\\mediacodec\\MediaCodecEncodeH264\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "312",
+                        "endColumns": "57",
+                        "endOffsets": "365"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

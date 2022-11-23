@@ -1,0 +1,173 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/content_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <SurfaceView
+            android:id="@+id/surfaceview"
+            android:layout_alignParentTop="true"
+            android:layout_width="320dp"
+            android:layout_height="180dp"/>
+        <SurfaceView
+            android:id="@+id/surfaceview1"
+            android:layout_toRightOf="@+id/surfaceview"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginLeft="10dp"/>
+
+        <SurfaceView
+            android:id="@+id/surfaceview2"
+            android:layout_below="@id/surfaceview"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"/>
+
+        <SurfaceView
+            android:id="@+id/surfaceview3"
+            android:layout_below="@id/surfaceview1"
+            android:layout_toRightOf="@+id/surfaceview2"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+
+        <SurfaceView
+            android:id="@+id/surfaceview4"
+            android:layout_below="@id/surfaceview2"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"/>
+
+        <SurfaceView
+            android:id="@+id/surfaceview5"
+            android:layout_below="@id/surfaceview3"
+            android:layout_toRightOf="@+id/surfaceview4"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/content_layout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextureView
+            android:id="@+id/textureview"
+            android:layout_alignParentTop="true"
+            android:layout_width="320dp"
+            android:layout_height="180dp"/>
+        <TextureView
+            android:id="@+id/textureview1"
+            android:layout_toRightOf="@+id/textureview"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginLeft="10dp"/>
+
+        <TextureView
+            android:id="@+id/textureview2"
+            android:layout_below="@id/textureview"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextureView
+            android:id="@+id/textureview3"
+            android:layout_below="@id/textureview1"
+            android:layout_toRightOf="@+id/textureview2"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+
+        <TextureView
+            android:id="@+id/textureview4"
+            android:layout_below="@id/textureview2"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextureView
+            android:id="@+id/textureview5"
+            android:layout_below="@id/textureview3"
+            android:layout_toRightOf="@+id/textureview4"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="bottom">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff0000"
+            android:background="#000000"
+            android:layout_alignParentTop="true"
+            android:text="采集帧率：0" />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff0000"
+            android:background="#000000"
+            android:layout_below="@id/textView"
+            android:text="编码数量：0" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff0000"
+            android:background="#000000"
+            android:layout_below="@id/textView1"
+            android:text="解码数量：0" />
+
+        <Button
+            android:id="@+id/preview_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView2"
+            android:text="打开相机" />
+
+        <Button
+            android:id="@+id/switch_cam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/preview_add"
+            android:text="切换相机" />
+
+        <Button
+            android:id="@+id/preview_remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/switch_cam"
+            android:text="增加编码" />
+        <Button
+            android:id="@+id/mirror"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/preview_remove"
+            android:text="增加解码" />
+
+        <Button
+            android:id="@+id/clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/mirror"
+            android:text="清除编解码" />
+    </RelativeLayout>
+    
+
+
+
+</RelativeLayout>
