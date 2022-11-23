@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d00d1d99bfdb345db746bb3316a9b022\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ef9f8a3486d647e656ca5ef59b3f31ab\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9a0591e0240a729eeaa2c7e777cb68b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7693c7d2892401ee64a1fd2bc1d4b36c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8752b0dcd1ce5970728ab6ab012c9265\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\2d4b6a6e232f7b4ecb9d9b91821b96eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e074c81b8ec8a23a8afc6390437c73db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f879fb3e72657ca93c12f9abb8d2879d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\26a925479afd1570a8227b33bbbe82dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d41e90599a5f7b68a29b96410fea7fd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e56f0797ec5111c9233ad3b721026941\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\095958c93861ead903d73a120f1b66ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1d2f892fb9df0c46f3ce7f23d0127aa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ef4eb638ddb6f4a5d1bd21640d5630f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fe635f801c25b5d6ae17f005562db6c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7924f976181cb48616c57d47b018a486\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\80c9b62d4922e759e61a7ea3a20ea0a3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\284da19605f5387c1d9f2d817b04a736\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\876aa30345ed97796967353da4383f92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1db954bd784025a954e9ccc5a836b44a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cd2980a9a927b7939820d15017372bc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4308f89e9b3b274620b9ecf39a852527\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\66580a42dacf649ade9b46188ade5df9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0d60cb9e2d5b84dd33ba4d9a47c6c6fc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c15d2c9d824e3051466bd704432286c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\30d52a8e2fc6441cb37dd73422c909a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\15fc4cb85753a703e6f508e636a910eb\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:10:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ef9f8a3486d647e656ca5ef59b3f31ab\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ef9f8a3486d647e656ca5ef59b3f31ab\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7924f976181cb48616c57d47b018a486\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7924f976181cb48616c57d47b018a486\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\80c9b62d4922e759e61a7ea3a20ea0a3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\80c9b62d4922e759e61a7ea3a20ea0a3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7924f976181cb48616c57d47b018a486\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:14:9-41
+	android:hardwareAccelerated
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:12:9-43
+	android:icon
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.mediacodecencode.MainActivity
+ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d00d1d99bfdb345db746bb3316a9b022\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d00d1d99bfdb345db746bb3316a9b022\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ef9f8a3486d647e656ca5ef59b3f31ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ef9f8a3486d647e656ca5ef59b3f31ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9a0591e0240a729eeaa2c7e777cb68b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9a0591e0240a729eeaa2c7e777cb68b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7693c7d2892401ee64a1fd2bc1d4b36c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7693c7d2892401ee64a1fd2bc1d4b36c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8752b0dcd1ce5970728ab6ab012c9265\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8752b0dcd1ce5970728ab6ab012c9265\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\2d4b6a6e232f7b4ecb9d9b91821b96eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\2d4b6a6e232f7b4ecb9d9b91821b96eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e074c81b8ec8a23a8afc6390437c73db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e074c81b8ec8a23a8afc6390437c73db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f879fb3e72657ca93c12f9abb8d2879d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f879fb3e72657ca93c12f9abb8d2879d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\26a925479afd1570a8227b33bbbe82dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\26a925479afd1570a8227b33bbbe82dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d41e90599a5f7b68a29b96410fea7fd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d41e90599a5f7b68a29b96410fea7fd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e56f0797ec5111c9233ad3b721026941\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e56f0797ec5111c9233ad3b721026941\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\095958c93861ead903d73a120f1b66ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\095958c93861ead903d73a120f1b66ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1d2f892fb9df0c46f3ce7f23d0127aa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1d2f892fb9df0c46f3ce7f23d0127aa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ef4eb638ddb6f4a5d1bd21640d5630f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ef4eb638ddb6f4a5d1bd21640d5630f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fe635f801c25b5d6ae17f005562db6c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fe635f801c25b5d6ae17f005562db6c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7924f976181cb48616c57d47b018a486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7924f976181cb48616c57d47b018a486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\80c9b62d4922e759e61a7ea3a20ea0a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\80c9b62d4922e759e61a7ea3a20ea0a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\284da19605f5387c1d9f2d817b04a736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\284da19605f5387c1d9f2d817b04a736\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\876aa30345ed97796967353da4383f92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\876aa30345ed97796967353da4383f92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1db954bd784025a954e9ccc5a836b44a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1db954bd784025a954e9ccc5a836b44a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cd2980a9a927b7939820d15017372bc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cd2980a9a927b7939820d15017372bc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4308f89e9b3b274620b9ecf39a852527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4308f89e9b3b274620b9ecf39a852527\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\66580a42dacf649ade9b46188ade5df9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\66580a42dacf649ade9b46188ade5df9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0d60cb9e2d5b84dd33ba4d9a47c6c6fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0d60cb9e2d5b84dd33ba4d9a47c6c6fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c15d2c9d824e3051466bd704432286c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c15d2c9d824e3051466bd704432286c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\30d52a8e2fc6441cb37dd73422c909a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\30d52a8e2fc6441cb37dd73422c909a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\15fc4cb85753a703e6f508e636a910eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\15fc4cb85753a703e6f508e636a910eb\AndroidManifest.xml:20:5-44
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+		ADDED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml
+		INJECTED from G:\myCode\mediacodec\MediaCodecEncodeH264-cameraapi2(1)\MediaCodecEncodeH264\app\src\main\AndroidManifest.xml

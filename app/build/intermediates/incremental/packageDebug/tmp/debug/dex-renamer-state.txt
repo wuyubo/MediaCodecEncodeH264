@@ -1,0 +1,7 @@
+#Sat Nov 12 10:18:45 CST 2022
+base.0=G\:\\myCode\\mediacodec\\MediaCodecEncodeH264\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=G\:\\myCode\\mediacodec\\MediaCodecEncodeH264\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
